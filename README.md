@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Tools+for+Windows+power+users.;Fast.+Polished.+Open+source." alt="Tools i develop and use personally. Open source. Enjoy.">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=520&lines=Tools+i+vibecode+and+use+personally.;Open+source.+Enjoy." alt="Tools i vibecode and use personally. Open source. Enjoy.">
 
 <br><br>
 
